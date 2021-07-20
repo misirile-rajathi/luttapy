@@ -186,12 +186,12 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
-            "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
+            "DOWNLOADING_SONG": "\npaatt thappi nookkkatte chakkare 🤗\n",
+            "UPLOADING_SONG": "\nPaatt kittiyittund 🙆 Cheviyil vekkunna sunappi eduth vachoo 🎧\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
-            "UPLOADING_VIDEO": "\n```Uploading...```\n",
+            "DOWNLOADING_VIDEO": "\n```Njan pooyi undoonn nookkatte 😜...```\n",
+            "UPLOADING_VIDEO": "\n```Nna pidichoo 🤗...```\n",
             "YT_DESC": "YouTubeill search cheyyum.",
             "NEED_WORDS": "```search cheyende words type cheyyu!```",
             "GETTING_VIDEOS": "```video link kond verunnu...```",
@@ -199,12 +199,12 @@
             "SEARCHING": "*🔎 searching...*",
             "WIKI_DESC": "Wikipedia yill search cheyyaan.",
             "IMG_DESC": "googlil chithram search cheyaan.",
-            "IMG": "chithram upload cheyyunu ```{}``` number ```{} ```..."
+            "IMG": "Nisaram 😈 ```{}``` number ```{} ```..."
         },
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```Nissaram 🤠```"
+            "DOWNLOADING": "```Ippo sheriyakkitharam 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*Paathunu Update und* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*luttapikk Update und* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*👰 Paathu Restarting ?*"
+            "AFTER_UPDATE": "*👰 luttapy Restarting ?*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -318,7 +318,7 @@
             "MP4TOAUDİO": "```Video Audio aaakki maattunnu..```",
             "STİCKER_DESC": "sticker photo akaan.",
             "STİCKER_NEEDREPLY": "*Photokk Reply ayitt ayakk*",
-            "STİCKER": "```Converting...```",
+            "STİCKER": "```Varunnund 🤗...```",
             "XMEDİA_DESC": "25 media tools ulla oru plugin .",
             "T_FALSE": "```❌ thettaaya Blend Effect aan thannath!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 eathellum oru Blend Effects type cheyanam!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
