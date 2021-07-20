@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/misirile-rajathi">misirile-rajath
 <p align="center">
 <a href="https://github.com/misirile-rajathi/followers"><img title="Followers" src="https://img.shields.io/github/followers/misirile-rajathi?color=blue&style=flat-square"></a>
 <a href="https://github.com/misirile-rajathi/luttapy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/misirile-rajathi/luttapy?color=blue&style=flat-square"></a>
-<a href="https://github.com/misirile-rajathi/luttapy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fasil-vkn/Paathu?color=blue&style=flat-square"></a>
+<a href="https://github.com/misirile-rajathi/luttapy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/misirile-rajathi/luttapy?color=blue&style=flat-square"></a>
 <a href="https://github.com/misirile-rajathi/luttapy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/misirile-rajathi/luttapy?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
