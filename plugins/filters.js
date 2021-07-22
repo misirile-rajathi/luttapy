@@ -276,7 +276,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mentio
 
     }
 
-const array = ['Hi','Bye','Muthe','Police','Teach','Thech','Z','aayo','alla','anthas','ayn','aysheri','bie','bye','chathu','cheyalle','chunk','committed','mama','marichu','mention','mood','muthe','myre','njan','number','ok','oombi','ooo','pedicho','pidi','poweresh','sad','saved','sed','shaad','shut','teach','test','thech','think','thund','umma','uyir','vannu','vibe','z','dead','JulieMwol','Like','pever','sry','night','indo','uff','eh','poyi','scene','killadi','nee alle','sheri','vada','poocha','morning','pm','thund','remove','Sed','araa','Da','madthu','Hlo','air','Bomb','Julie','myr','fan','charge',]
+const array = ['Hi','sed','aara','Da','Hlo','myr','dj','kalipp','kollaam','Mathi','moodesh','Muthe','omg','pever','sugano','Thyr','wow']
 
 array.map( async (a) => {
 
